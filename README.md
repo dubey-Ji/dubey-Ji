@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dubey-Ji
 - 👀 I’m interested in Fullstack Development
-- 🌱 I’m currently learning MongoDB
+- 🌱 I’m currently learning NoSQL Database
 - 💞️ I’m looking to collaborate on Fullstack Projects
 - 📫 Reach me through ashd1014@gmail.com
 
